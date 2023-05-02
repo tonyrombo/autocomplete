@@ -13,7 +13,7 @@ npm (version 6 or higher)
 Clone the repository to your local machine:
 
 
- `git clone https://github.com/your-username/auto-complete.git`
+ `git clone https://github.com/tonyrombo/autocomplete.git`
 
 
 ## Navigate to the project directory:
